@@ -13,6 +13,12 @@ The package, GPM/DPR F90Reader, consists of F90 codes to create monthly and annu
 - [GTOOL3/DCL5 Library](https://www.gfd-dennou.org/library/gtool/index.htm.en) [OPTIONAL]
 
 
+## Supported OS/Machine
+
+- AlmaLinux release 8.8 system (36CPU, 512GB Memory)
+- MacOS release 12.3 or later (10CPU/16GPU, M2Pro 32GB Memory)
+
+
 ## Package Structure
 
 The repository includes directories below:
